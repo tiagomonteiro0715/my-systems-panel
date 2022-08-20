@@ -3,6 +3,9 @@
 
 https://html5up.net/dimension
 
+criar bom readme disto e colocar no meu site + mudar para ter slideshow atrás - ficar mesmo bom!
+
+
 # Project's Title
 
 -----
